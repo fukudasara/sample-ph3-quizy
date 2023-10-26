@@ -13,3 +13,5 @@
 `docker exec -it <appコンテナID> php artisan migrate:refresh --seed`
 
 And you can access `http://localhost`
+
+##リードミー編集してみたよん新宿御苑行きたい
